@@ -1,11 +1,11 @@
-# (Title)
-(Short description)
+# (Visual interactive with sound)
+(This is a visual particle system that can interact with sound. Player one can change the position of the particles by moving their body. Player two can create sound by using the key slider. If they are connected to the same WIFI and both are using the webcam and the key slider, the sphere can be moved, the color of the sphere can be changed, and sounds can be produced.
 
 ## (Installing)
-...
-
+... 
+Use the folder exam, the latest version is number 18 for Touch Designer. The amplitude & frequency modulation for Max MSP.
 ## (Usage)
-...
+... YOU need a webcam, TouchDesigner, Max MSP, and a connection to the same WIFI
 
 ## (Links)
 ...
